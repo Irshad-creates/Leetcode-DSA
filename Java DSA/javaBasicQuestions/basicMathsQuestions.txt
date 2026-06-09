@@ -16,3 +16,19 @@ public class Solution{
         return sum;
     }
 }
+
+Q2 - get input and print a string with input(String and integer)
+
+import java.util.Scanner;
+
+public class Main{
+    public static void main (String[] args) {
+        Scanner sc = new Scanner(System.in);
+        /* Write Your Code Here */
+
+        String name = sc.next();
+        int age = sc.nextInt();
+
+       System.out.println("Hello " + name + " you are " + age + " years old."); 
+    }
+}
