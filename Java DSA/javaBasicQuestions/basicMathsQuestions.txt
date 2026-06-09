@@ -32,3 +32,26 @@ public class Main{
        System.out.println("Hello " + name + " you are " + age + " years old."); 
     }
 }
+
+Q3 -  swap two Numbers
+
+import java.util.*;
+
+class Solution {
+    public void swapNumbers() {
+        // take input and swap them 
+//Write your code here
+
+    Scanner sc =  new Scanner(System.in);
+
+    int a = sc.nextInt();
+    int b = sc.nextInt();
+
+    int c = a;
+     a = b;
+     b = c;
+
+    System.out.println(a);
+    System.out.println(b);
+    }
+}
