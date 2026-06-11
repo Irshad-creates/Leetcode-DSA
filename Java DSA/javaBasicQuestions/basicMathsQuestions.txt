@@ -1,3 +1,11 @@
+ cd "c:\Users\Irshad Ansari\OneDrive\Desktop\DSA\Java DSA\Java Practices\"
+javac Main.java ; java Main
+
+
+cd "c:\Users\Irshad Ansari\OneDrive\Desktop\DSA\Java DSA\Java Practices\"
+.\compile.bat
+
+
 Q1 - sum Of Two Numbers
 
 import java.util.Scanner;
