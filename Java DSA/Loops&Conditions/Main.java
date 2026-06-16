@@ -59,5 +59,17 @@ public class Main{
         // }
 
 
+        // 3> do-while loop
+
+        // do{
+        //     code
+        // }while(condition)
+
+        int n=1;
+        do{
+            System.out.println(n);
+            n++;
+        }while(n<=5);
+
     } 
 }
