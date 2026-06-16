@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Primitives{
     public static void main(String[] args){
         
@@ -5,10 +7,10 @@ public class Primitives{
         
         int rollno = 64;
         char letter = 'r';
-        float marks = "98.45";
+        float marks = 98.45f;
         double largeDecimalNumber = 232130.2325;
         long largerInteger = 32254516;
-        boolean check = "true";
+        boolean check = true;
 
         Scanner sc = new Scanner(System.in);
         System.out.println("hello i am "+ sc);
