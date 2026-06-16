@@ -36,13 +36,27 @@ public class Main{
 
         //   for loop
 
-        for(initialization; conditions; increment/decrement){
-            // code
-        }
+        // for(initialization; conditions; increment/decrement){
+        //     // code
+        // }
 
-        for(int num =1; num<=10;num++){
-            System.out.print( num);
-        }
+        // for(int num =1; num<=10;num++){
+        //     System.out.print( num);
+        // }
+
+
+        // while loop
+
+        // while(condition){
+        //     code
+        // }
+
+
+        // int n=1;
+        // while(n<=5){
+        //     System.out.println(n);
+        //     n++;
+        // }
 
 
     } 
