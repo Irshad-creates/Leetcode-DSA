@@ -3,21 +3,20 @@ public class SwapTwoNumber {
         int a = 10;
         int b = 40;
 
-        // // swap two numbers
-        // int temp = a;
-        // a = b;
-        // b = temp;
-
-        swap(a, b);
+        {
+        int temp = a;
+        a = b;
+        b = temp;
+        }
         System.out.println(a + " " + b);
 
     }
 
-    static void swap(int a, int b){
-        int temp = a;
-        a = b;
-        b = temp;
+    // static void swap(int a, int b){
+    //     int temp = a;
+    //     a = b;
+    //     b = temp;
 
         
-    }
+    // }
 }
