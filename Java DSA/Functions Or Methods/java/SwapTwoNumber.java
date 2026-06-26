@@ -12,10 +12,10 @@ public class SwapTwoNumber {
 
     }
 
-    // static void swap(int a, int b){
-    //     int temp = a;
-    //     a = b;
-    //     b = temp;
+    static void swap(int a, int b){
+        int temp = a;
+        a = b;
+        b = temp;
 
         
     // }
