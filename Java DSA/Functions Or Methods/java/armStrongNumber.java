@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class armStrongNumber {
+    public class armStrongNumber {
     public static void main(String[] args) {
         // Scanner in = new Scanner(System.in);
         // int n = in.nextInt();
