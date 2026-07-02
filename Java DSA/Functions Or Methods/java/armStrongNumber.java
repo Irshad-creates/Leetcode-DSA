@@ -15,17 +15,19 @@
         
     }
 
-    static boolean isArmstrong(int n){
-        int original = n ;
-        int digits = String.valueOf(n).length();
-        int sum = 0;
-        while (n > 0){
-            int rem = n % 10;
-            n = n / 10;
-            sum += (int) Math.pow(rem, digits) ;
-        }
-        return original == sum ;
-    } 
+    // static boolean isArmstrong(int n){
+    //     int original = n ;
+    //     int digits = String.valueOf(n).length();
+    //     int sum = 0;
+    //     while (n > 0){
+    //         int rem = n % 10;
+    //         n = n / 10;
+    //         sum += (int) Math.pow(rem, digits) ;
+    //     }
+    //     return original == sum ;
+    // } 
+
+    ,lmlml
     
     
 }
