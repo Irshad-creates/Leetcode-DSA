@@ -33,8 +33,8 @@ public class input {
     
     // toString method
 
-        System.out.println(Arrays.toString(arr));
+    //     System.out.println(Arrays.toString(arr));
     
-    }
+    // }
 
 }
