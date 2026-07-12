@@ -5,37 +5,37 @@ import java.util.Scanner;
 
 public class input {
     public static void main(String[] args) {
-        // Scanner in = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
 
 
-        // array of primatives
+        array of primatives
 
-        // manually
+        manually
 
-        // int[]num = new int[5];
-        // num[0]=17;
-        // num[1]=1245;
-        // num[2]=12;
-        // num[3]=125;
-        // num[4]=112;
+        int[]num = new int[5];
+        num[0]=17;
+        num[1]=1245;
+        num[2]=12;
+        num[3]=125;
+        num[4]=112;
 
-        // System.out.println(num[3]);
+        System.out.println(num[3]);
 
-        // // foreach loop
+        // foreach loop
 
 
-        // int[] arr = new int[6];
+        int[] arr = new int[6];
         
 
-        // for(int n : arr){
-        //     arr[n] = in.nextInt();
-        //     // System.out.println(n);
-        // }
+        for(int n : arr){
+            arr[n] = in.nextInt();
+            // System.out.println(n);
+        }
     
     
-    // toString method
+    toString method
 
-        // System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr));
     
 
 
