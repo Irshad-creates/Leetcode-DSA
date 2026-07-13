@@ -8,9 +8,9 @@ public class input {
         Scanner in = new Scanner(System.in);
 
 
-        array of primatives
+        // array of primatives
 
-        manually
+        // manually
 
         int[]num = new int[5];
         num[0]=17;
@@ -33,7 +33,7 @@ public class input {
         }
     
     
-    toString method
+    // toString method
 
         System.out.println(Arrays.toString(arr));
     
