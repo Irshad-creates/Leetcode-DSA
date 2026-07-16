@@ -35,18 +35,18 @@ public class input {
     
     // toString method
 
-        System.out.println(Arrays.toString(arr));
+    //     System.out.println(Arrays.toString(arr));
     
 
 
-    // array of objects
-    Scanner in = new Scanner(System.in);
+    // // array of objects
+    // Scanner in = new Scanner(System.in);
 
 
-    String[] str = new String[4];
-    for(int i = 0; i < str.length; i++){
-        str[i] = in.next();
-    }  
+    // String[] str = new String[4];
+    // for(int i = 0; i < str.length; i++){
+    //     str[i] = in.next();
+    // }  
 
 
     
