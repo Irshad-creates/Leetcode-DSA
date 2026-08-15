@@ -1,7 +1,7 @@
 function isSorted(nums) {
         //your code goes here
 
-        for( let i = 1; i < nums.length - 1; i++){
+        for( let i = 1; i < nums.length; i++){
             if(nums[i] >= nums[i-1]){
                 
             }else{
@@ -11,5 +11,5 @@ function isSorted(nums) {
         return true
     }
 
-    console.log();
+    console.log(isSorted([1,9,6,8,5,4,0]));
     
